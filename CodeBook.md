@@ -51,16 +51,16 @@ contains train data of activities’code labels
 
 ### Appropriately labels the data set with descriptive variable names - tidy data set Finale
 
-All `-` in column’s name deleted
-All `()` in column’s name deleted
-All start with character `f` or `Freq` in column’s name replaced by `Frequency`
-All start with character `t` in column’s name replaced by `Time`
-All `Acc` in column’s name replaced by `Accelerometer`
-All `Gyro` in column’s name replaced by `Gyroscope`
-All `BodyBody` in column’s name replaced by `Body`
-All `Mag` in column’s name replaced by `Magnitude`
-All `std` in column’s name replaced by `STD`
-All `mean` in column’s name replaced by `Mean`
+- All `-` in column’s name deleted
+- All `()` in column’s name deleted
+- All start with character `f` or `Freq` in column’s name replaced by `Frequency`
+- All start with character `t` in column’s name replaced by `Time`
+- All `Acc` in column’s name replaced by `Accelerometer`
+- All `Gyro` in column’s name replaced by `Gyroscope`
+- All `BodyBody` in column’s name replaced by `Body`
+- All `Mag` in column’s name replaced by `Magnitude`
+- All `std` in column’s name replaced by `STD`
+- All `mean` in column’s name replaced by `Mean`
 
 ### Export tidy data set
 
